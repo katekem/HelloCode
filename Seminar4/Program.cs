@@ -42,7 +42,7 @@
 //     Console.Write (array1[i] + " ");
 // }
 
-// ong fact(long num)
+// long fact(long num)
 // {
 
 //     if (num == 1)
